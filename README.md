@@ -23,7 +23,7 @@ You can install these packages by running pip install pandas numpy matplotlib.
 6. Finally, the notebook will plot the regression line and display the predicted salaries for some test data.
 
 ## Credits
-This notebook is based on the Deep Learning Specialization course by Andrew Ng on Coursera.
+This notebook is based on the Machine Learning Specialization course by Andrew Ng on Coursera.
 
 ## License
 This project is licensed under the MIT License
